@@ -1,0 +1,12 @@
+words=[
+    "aaryan",
+    "santhosh",
+    "ravivarma",
+    "srinu",
+    "sasi",
+    "dharvik",
+    "gnanesh",
+    "koushik",
+    "prathap",
+    "trivikram"
+]
